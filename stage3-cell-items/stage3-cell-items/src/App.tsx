@@ -5,7 +5,7 @@ import { useTheme } from './hooks/useTheme';
 import { THEME_CONFIG } from './types';
 
 // Components
-import { HomeScreen } from './components/HomeScreen';
+import  HomeScreen  from './components/HomeScreen';
 import { HabitatPage } from './components/Habitat/HabitatPage';
 import { CellListPage } from './components/Cell/CellListPage';
 import { ItemDetailPage } from './components/Item/ItemDetailPage';
